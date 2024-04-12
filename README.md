@@ -1,42 +1,28 @@
 # [JSL09] Submission: Personal Dashboard Chrome Extension
 
-You will:
-1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
+# Project Overview
 
-In this project you will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. Note you are only required to submit the project code. You DO NOT need to submit the deployed Chrome extension. 
+- In this project I created a Personal Dashboard for my Chrome Browser. I used HTML, CSS, and JavaScript to create a dashboard that displays the current time, weather, and news. The project mainly focuses on JavaScript and the use of APIs and how to implement promise rejections.
 
-Scrimba Reference Link: https://scrimba.com/learn/frontend/promise-rejection-coc4a4e4d8d208ab33b190dd5
+# Elements Included
 
-![](<[JSL09 Solution].png>)
-Note that this background image is dynamically generated so your's will look different.
+- Code that includes the necessary modifications to meet the project requirements.
+- GitHub repository that contains the updated code files.
 
-## What You Need to Do:
+# Reflections
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Open the cloned project in your code editor.
-3. Code your solution for the challenge as per the provided instructions.
-4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
-5. Commit your changes to your local Git repository with meaningful commit messages.
-6. Push your local Git repository to your GitHub account.
-7. Verify that the changes have been successfully pushed to your GitHub repository.
+## Areas of Mastery
 
-![alt text](download-scrimba-files.png)
-You can download your Scrimba files in the bottom right hand corner of the Scrimba IDE panel. 
+- There aren't any areas of mastery in this project as promises were new to me and it was my first time using them.
 
-## What You Need to Include:
+## Challenges faced
 
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
+- Getting my weather information to display. I struggled to get my current location only to realize later that I blocked my location and didn't give the site access to display it.
 
-## How We'll Assess Your Work:
+## Areas of Improvement
 
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
+- Integrating APIs into a project using promises and .fetch() method.
 
+# Overall Learning Experience
 
-
-
+- I would say that it was an interesting project. I learned a lot about how to use APIs and how to implement them in a project. I got to also learn how to use Promises and the Fetch API to make asynchronous requests and handle responses. It was a great learning experience and I am looking forward to learning more about APIs and how to use them in my future projects. It might've been hard/challenging but I'm going to give myself the time to learn more about the fetch, .then() .catch() methods.
